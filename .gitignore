@@ -9,7 +9,7 @@ __pycache__/
 _build
 build/
 dist/
-
+venv
 *.pkl
 *.hd5
 *.csv
